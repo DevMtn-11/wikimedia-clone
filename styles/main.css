@@ -1,0 +1,69 @@
+.bold {
+  font-weight: 700;
+}
+.text-right {
+  text-align: right;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.main-header {
+  width: 100%;
+  margin: 40px auto 50px;
+}
+
+.main-header p {
+  margin-bottom: 20px;
+}
+
+.wikipage-container {
+  width: 100%;
+  margin: 0 auto 20px;
+}
+
+.wikipage-container-row {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.wikipage-container-item {
+  width: 150px;
+  height: 150px;
+  margin: 20px auto;
+  line-height: 175px;
+}
+
+.wikipage-container-item img {
+  max-width: 150px;
+  max-height: 150px;
+  vertical-align: middle;
+}
+
+hr {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.mission-statement {
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.bottom-nav {
+  margin: 0 auto 15px;
+  text-align: center;
+}
+
+.bottom-nav p {
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  display: inline-block;
+  margin: 0 11px;
+}

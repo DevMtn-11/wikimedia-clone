@@ -49,9 +49,22 @@ table {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: sans-serif;
   font-weight: 700;
 }
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 29px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #0645AD;
+}
+a:visited {
+  color: #0645AD;
+}
+a:active {
+  color: #eee;
 }
